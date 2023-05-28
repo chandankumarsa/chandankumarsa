@@ -1,7 +1,7 @@
-
+[[
 <h1>💫Hi there, I'm <a href="https://chandankumarsahu.me/">Chandan Kumar Sahu </a>👋</h1>
 
-<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
+<img src="https://github.com/chandankumarsa/chandankumarsa/blob/main/welcome.gif" height="300px" width="300px"> 
 
 •	🔭 I’m currently a Student!!!
 
@@ -94,3 +94,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chandankumarsa&icon=7&color=10)](https://chandankumarsahu.me/)
+](https://chandankumarsahu.me/)](https://chandankumarsahu.me/)
