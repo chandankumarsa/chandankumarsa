@@ -1,4 +1,4 @@
-[[
+
 <h1>💫Hi there, I'm <a href="https://chandankumarsahu.me/">Chandan Kumar Sahu </a>👋</h1>
 
 <img src="https://github.com/chandankumarsa/chandankumarsa/blob/main/welcome.gif" height="300px" width="300px"> 
@@ -16,7 +16,7 @@
 •	📫 How to reach me:
    
    <a href="https://api.whatsapp.com/send?phone=917848999723&text=hey">
-      <img src="https://exploitus.chinmayakumarbiswal.in/image/whatsapp.png" height="40px" width="40px">
+      <img src="https://github.com/chandankumarsa/chandankumarsa/blob/main/whatsapp.png" height="40px" width="40px">
    </a>
    <a href="https://www.facebook.com/chandankumar.sahu.1447342/">
       <img src="https://github.com/chandankumarsa/chandankumarsa/blob/main/facebook.png" height="40px" width="40px">
@@ -94,4 +94,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chandankumarsa&icon=7&color=10)](https://chandankumarsahu.me/)
-](https://chandankumarsahu.me/)](https://chandankumarsahu.me/)
