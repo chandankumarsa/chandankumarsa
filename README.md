@@ -1,5 +1,7 @@
 
 <h1>💫Hi there, I'm <a href="https://chandankumarsahu.me/">Chandan Kumar Sahu </a>👋</h1>
+A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth
+System.out.println("Hello World !!");
 
 <img src="https://github.com/chandankumarsa/chandankumarsa/blob/main/welcome.gif" height="300px" width="300px"> 
 
